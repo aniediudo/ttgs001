@@ -1,0 +1,19 @@
+{
+  "name": "ttgs001_package",
+  "description": "Time to get serious 001",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aniediudo/ttgs001.git"
+  },
+  "keywords": [],
+  "author": "Aniedi Udo-Obong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniediudo/ttgs001/issues"
+  },
+  "homepage": "https://github.com/aniediudo/ttgs001"
+}
